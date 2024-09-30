@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.preview-layout {
+    background-color: #ffffff00;
+}
+
+.preview-subtitle {
+    line-height: 1.2;
+    color: #322723;
+    font-family: heebo, sans-serif;
+}
